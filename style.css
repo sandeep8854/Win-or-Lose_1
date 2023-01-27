@@ -23,6 +23,8 @@ body {
   font-weight: 600;
 }
 .btn {
+  margin: 3px;
+  padding: 8px;
   font-size: 18px;
   border-radius: 5px;
   border-radius: 5px;
@@ -38,7 +40,8 @@ body {
 
 @media (min-width: 352px) and (max-width: 456px) {
   .btn {
-    margin: -5px;
+    margin: 7px;
+    padding: 6px;
   }
   .para {
     font-size: 15px;
