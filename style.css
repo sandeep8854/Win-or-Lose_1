@@ -42,11 +42,15 @@ body {
   .btn {
     margin: 2px;
     padding: 3px;
+    font-size: 12px;
   }
   .para {
     font-size: 15px;
   }
   h1 {
     font-size: 15px;
+  }
+  .container {
+    width: 265px;
   }
 }
