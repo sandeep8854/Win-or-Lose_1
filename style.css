@@ -40,8 +40,8 @@ body {
 
 @media (min-width: 352px) and (max-width: 456px) {
   .btn {
-    margin: 7px;
-    padding: 6px;
+    margin: 2px;
+    padding: 3px;
   }
   .para {
     font-size: 15px;
